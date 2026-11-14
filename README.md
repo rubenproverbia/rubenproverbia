@@ -1,5 +1,7 @@
 <img src="assets/banner.png" alt="Los diez provis de Proverbia, de pie sobre una línea verde" width="100%">
 
+<img src="assets/ruben.png" alt="Rubén García" width="150" align="right">
+
 ### Hola, soy Rubén
 
 Cofundador de [Proverbia Solutions](https://proverbiasolutions.com). Paso más horas con dueños de empresa que con el código. Primero escucho qué se les come la semana y luego lo monto.
